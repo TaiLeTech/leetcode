@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LTTai/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/LTTai/Leetcode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/LTTai/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LTTai/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/LTTai/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0242-valid-anagram](https://github.com/LTTai/Leetcode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/LTTai/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/LTTai/Leetcode/tree/master/0657-robot-return-to-origin) |
 ## Sliding Window
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/LTTai/Leetcode/tree/master/0657-robot-return-to-origin) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/LTTai/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
