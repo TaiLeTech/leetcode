@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LTTai/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/TaiLeTech/leetcode/tree/master/0015-3sum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/LTTai/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0860-lemonade-change](https://github.com/LTTai/Leetcode/tree/master/0860-lemonade-change) |
 | [1895-largest-magic-square](https://github.com/LTTai/Leetcode/tree/master/1895-largest-magic-square) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/TaiLeTech/leetcode/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/LTTai/Leetcode/tree/master/0242-valid-anagram) |
 ## Design
 |  |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/LTTai/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/TaiLeTech/leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
