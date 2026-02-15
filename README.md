@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/LTTai/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/TaiLeTech/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/TaiLeTech/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/TaiLeTech/leetcode/tree/master/0016-3sum-closest) |
 | [0304-range-sum-query-2d-immutable](https://github.com/LTTai/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0860-lemonade-change](https://github.com/LTTai/Leetcode/tree/master/0860-lemonade-change) |
 | [1895-largest-magic-square](https://github.com/LTTai/Leetcode/tree/master/1895-largest-magic-square) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/TaiLeTech/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/TaiLeTech/leetcode/tree/master/0016-3sum-closest) |
 | [0242-valid-anagram](https://github.com/LTTai/Leetcode/tree/master/0242-valid-anagram) |
 ## Design
 |  |
@@ -72,4 +74,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/TaiLeTech/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/TaiLeTech/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/TaiLeTech/leetcode/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
