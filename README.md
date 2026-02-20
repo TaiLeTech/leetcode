@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/TaiLeTech/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/TaiLeTech/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/TaiLeTech/leetcode/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/TaiLeTech/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0304-range-sum-query-2d-immutable](https://github.com/LTTai/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0860-lemonade-change](https://github.com/LTTai/Leetcode/tree/master/0860-lemonade-change) |
 | [1895-largest-magic-square](https://github.com/LTTai/Leetcode/tree/master/1895-largest-magic-square) |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/TaiLeTech/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/TaiLeTech/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/TaiLeTech/leetcode/tree/master/0018-4sum) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/TaiLeTech/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
