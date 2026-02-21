@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/TaiLeTech/leetcode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/TaiLeTech/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TaiLeTech/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/TaiLeTech/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/LTTai/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0860-lemonade-change](https://github.com/LTTai/Leetcode/tree/master/0860-lemonade-change) |
 | [1895-largest-magic-square](https://github.com/LTTai/Leetcode/tree/master/1895-largest-magic-square) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/TaiLeTech/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/LTTai/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1895-largest-magic-square](https://github.com/LTTai/Leetcode/tree/master/1895-largest-magic-square) |
 ## Prefix Sum
@@ -85,4 +87,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/TaiLeTech/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TaiLeTech/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/TaiLeTech/leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
